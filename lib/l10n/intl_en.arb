@@ -1,0 +1,28 @@
+{
+"@locale": "en",
+"welcome": "Welcome",
+"please_sign_in_to_speso_app":"Please sign in to speso app",
+"login":"Login",
+"email":"Email",
+"today":"Today",
+"chat":"Chat",
+"password":"Password",
+"retype_password":"Password",
+"enter_your_email": "Enter your email",
+"enter_your_password": "Enter your password",
+"retype_your_password": "Enter your password again",
+"password_dont_match": "password do not match again",
+"please_sign_in_to_continue": "Please sign in to continue",
+"please_register_to_speso": "Please register to spreso app",
+"email_address": "Email Address",
+"already_have_an_account": "Already have an account?",
+"email_cannot_be_empty": "Email cannot be empty",
+"email_must_be_a_valid_email": "Email must be a valid email address",
+"required": "Required",
+"home": "Home",
+"sign_up": "Sign Up",
+"dont_have_an_account": "Don’t have an account?",
+"kindly_edit": "Kindly edit the details below to the reflect the right standard dish information"
+
+
+}
